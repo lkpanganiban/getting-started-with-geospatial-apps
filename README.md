@@ -3,16 +3,18 @@
 The following repository is a workshop conducted in Pista ng Mapa 2023 in Tacloban. This goes through with various setup on how you can develop geospatial applications using web technologies.
 
 ## Requirements
+
 - Git
 - Docker
 - docker-compose
 
 ## Setups and Configurations
+
 1. PostGIS + Django
 2. Opensearch + Leaflet
-3. Geonode
+3. Geoserver
 
 ## How to Use
-- Go into each directory and run `docker compose up`. This will spin up all the necessary services and containers to start the system.
-- Each directory also contains a `README.md` as a guide. 
 
+- Go into each directory and run `docker compose up`. This will spin up all the necessary services and containers to start the system.
+- Each directory also contains a `README.md` as a guide.

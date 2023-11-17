@@ -13,5 +13,3 @@ RUN pip install -r requirements.txt && \
 ADD . /src/
 
 ENTRYPOINT ["/src/entrypoint.sh"]
-
-EXPOSE 8000

@@ -23,5 +23,5 @@ The following is a template on how to use Opensearch and Leaflet. Opensearch is 
 
 ## Activities
 
-- Learn how elements are being added to the map
+- Learn how elements are being added to the map using leaflet
 - Learn how to query data from an endpoint

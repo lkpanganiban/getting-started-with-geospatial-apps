@@ -7,6 +7,8 @@ The following repository is a workshop conducted in Pista ng Mapa 2023 in Taclob
 - Git
 - Docker
 - docker-compose
+- text editor (VSCode)
+- QGIS (if you want to preview the data)
 
 ## Setups and Configurations
 
